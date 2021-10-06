@@ -14,7 +14,9 @@
 
 > This repository is maintaining solution & approach of questions present in **2 Weeks Study Plan to Tackle DS 💻 (LeetCode)**.
 
-### 🏠 [Homepage](https://leetcode.com/study-plan/data-structure/)
+## 🏠 [HomePage](https://alok722.github.io/leetcode-ds-study-plan/dist/notes.html)
+
+### 🏠 [LeetCode Ref's Link](https://leetcode.com/study-plan/data-structure/)
 
 ## Author
 

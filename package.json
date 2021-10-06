@@ -1,0 +1,27 @@
+{
+  "name": "leetcode-data-structure-study-plan",
+  "version": "1.0.0",
+  "description": "This repository is maintaining solution & approach of questions present in 2 Weeks Study Plan to Tackle DS 💻 (LeetCode).",
+  "main": "index.js",
+  "scripts": {
+    "build": "generate-md --layout markedapp-byword --input ./notes.md --output ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok722/leetcode-ds-study-plan.git"
+  },
+  "keywords": [
+    "java",
+    "dsa",
+    "leetcode"
+  ],
+  "author": "Alok Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alok722/leetcode-ds-study-plan/issues"
+  },
+  "homepage": "https://github.com/alok722/leetcode-ds-study-plan#readme",
+  "dependencies": {
+    "markdown-styles": "^3.2.0"
+  }
+}
